@@ -1,0 +1,8 @@
+1;Eric Garcia;egarcia;egarcia123;egarcia@test.com
+2;Fernando Suarez;fsuarez;fsuarez123;fsanchez@test.com
+3;Javier Garcia;jgarcia;jgarcia123;jgarciatest.com
+4;prueba manolo;prueba1;prueba123;egarcia@prueba.cat
+1;Eric Garcia;egarcia;egarcia123;egarcia@test.com;1
+2;Fernando Suarez;fsuarez;fsuarez123;fsanchez@test.com;2
+3;Javier Garcia;jgarcia;jgarcia123;jgarciatest.com;3
+4;prueba manolo;prueba1;prueba123;egarcia@prueba.cat;1

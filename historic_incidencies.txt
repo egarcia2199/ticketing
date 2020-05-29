@@ -1,0 +1,2 @@
+1;administrador;2020-05-29 19:41:57;projector;Aula musica;No funciona correctament el projector de la sala de musica;RESOLTA
+2;gestor;2020-05-29 19:41:57;impressora;Aula informatica;La impressora no imprimeix en color;RESOLTA

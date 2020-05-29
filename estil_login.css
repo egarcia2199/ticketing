@@ -1,0 +1,39 @@
+body {
+	background: rgb(14,250,212);
+	background: linear-gradient(90deg, rgba(14,250,212,1) 0%, rgba(3,145,70,1) 100%);
+	-webkit-background-size: cover;
+	-moz-background-size: cover;
+	-o-background-size: cover;
+	background-size: cover;
+	font-family: Arial;
+	font: 14px sans-serif; 
+}
+
+.wrapper {
+	width: 350px;
+	padding: 20px;
+}
+
+
+.content { 
+	max-width: 500px;
+	margin: auto;
+}
+
+.center {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	width: 50%;
+	}
+
+#div_login{
+	text-align: center;
+}
+
+.logo {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+	margin-top: 200px;
+}

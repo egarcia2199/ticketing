@@ -1,0 +1,161 @@
+body {
+	background: #b2fefa; 
+	background: -webkit-linear-gradient(to bottom, #b2fefa, #0ed2f7);
+	background: linear-gradient(to bottom, #b2fefa, #0ed2f7); 
+	background-size: cover;
+	font-family: Arial;
+	background-repeat: no-repeat;
+	margin: 0;
+	background-attachment: fixed;
+}
+
+ 
+table {
+	border-collapse: collapse;
+	background-color: white;
+	width: 90%;
+	color: #55555;
+	font-family: arial;
+	font-size: 10px;
+	text-align: left;
+}
+
+th {
+	background-color: #588c7e;
+	font-size: 16px;
+	color: white;
+	position: static;
+}
+
+tr:nth-child(even) {
+	background-color: #F0F8FF
+}
+
+
+
+ul {
+	list-style-type: none;
+	margin: 0;
+	padding: 0;
+	overflow: hidden;
+	background-color: #333;
+}
+
+li {
+	float: left;
+	color: white;
+}
+
+li a {
+	display: inline-block;
+	color: white;
+	text-align: center;
+	padding: 14px 16px;
+	text-decoration: inherit;
+}
+
+li a:hover {
+	background-color: #111;
+}
+
+.active2 {
+	background-color: maroon;
+}
+
+div.user {
+	text-align: center;
+	margin-left:600px;
+	padding-top: 15px;
+	position: absolute;
+	font-size: 16px;
+}
+
+pre {
+	text-align: left;
+	font-weight: bold;
+}
+
+#banner {
+	width: 100%;
+	background-image: url("banner.jpeg");
+	height: 100px;
+	background-position: center;
+}
+
+label {
+	text-align: arial;
+	font-weight: bold;
+	margin-top: 50px;
+}
+
+#banner_titulo {
+	text-align: arial;
+	color: white;
+	font-size: 21px;
+	font-weight: bold;
+	position: absolute;
+    margin-top: 50px;
+    margin-left: 320px;
+    transform: translate(-50%, -50%);
+}
+
+legend {
+	font-size: 21px;
+	font-weight: bold;
+}
+
+
+* {
+  box-sizing: border-box;
+}
+
+form.example input[type=text] {
+  padding: 10px;
+  font-size: 17px;
+  border: 1px solid grey;
+  float: left;
+  width: 80%;
+  background: #f1f1f1;
+}
+
+
+form.example button {
+  float: left;
+  width: 20%;
+  padding: 10px;
+  background: #2196F3;
+  color: white;
+  font-size: 17px;
+  border: 1px solid grey;
+  border-left: none; 
+  cursor: pointer;
+}
+
+form.example button:hover {
+  background: #0b7dda;
+}
+
+
+form.example::after {
+  content: "";
+  clear: both;
+  display: table;
+}
+
+
+div.form1 {
+	float: left;
+	padding-left: 500px; 
+	padding-bottom: 50px; 
+   	clear: none; 
+}
+
+div.form2 {
+	padding-left: 170px ; 
+	float: left;
+	padding-bottom: 150px ; 
+	margin-top: -36px;
+   	clear: none; 
+}
+
+
